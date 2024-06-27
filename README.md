@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A passionate full-stack developer from Texas with a passion to design and develop front and back-end web applications.</h3>
+<h3 align="center">A passionate full-stack developer from Texas!</h3>
 
 - 🔭 I’m currently working on **Pet_Care_App**
 
