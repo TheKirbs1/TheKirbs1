@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **In The Bag**
 
-- 🐶 I've recently made **a Pet Care App call PetPal**
+- 🐶 I've recently made **PetPal**
 
 - 🤔 I’m currently learning to be an expert in **SQL, SQLAlchemy, Python, & Javascript**
 
