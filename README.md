@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A passionate full-stack developer from Texas! I bring a blend of leadership, process improvement, and sharp analytical skills to the table. I love building impactful solutions that marry technology with operational efficiency. With expertise in JavaScript, React.js, Python, and more, I'm all about creating dynamic applications and driving innovation in a collaborative environment.</h3>
 
-- 🔭 I’m currently working on **InTheBag**
+- 🔭 I’m currently working on **In The Bag**
 
 - 🐶 I've recently made **a Pet Care App call PetPal**
 
