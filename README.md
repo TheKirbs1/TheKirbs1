@@ -5,15 +5,15 @@
 
 - 🐶 I've recently made **a Pet Care App call PetPal**
 
-- 🌱 I’m currently learning to be an expert in **SQL, SQLAlchemy, Python, & Javascript**
+- 🤔 I’m currently learning to be an expert in **SQL, SQLAlchemy, Python, & Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheKirbs1](https://github.com/TheKirbs1)
 
-- 📫 How to reach me **thekirbs22@gmail.com**
+- 📧 How to reach me **thekirbs22@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/d7ndol6wml](https://flowcv.com/resume/d7ndol6wml)
 
-- ⚡ Fun fact **I am an avid disc golfer and gamer!**
+- 🥏 Fun fact **I am an avid disc golfer and gamer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
