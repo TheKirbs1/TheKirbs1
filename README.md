@@ -5,7 +5,7 @@
 
 - 🐶 I've recently made **a Pet Care App call PetPal**
 
-- 🌱 I’m currently learning to be an expert in **SQL, SQLalchemy, Python, & Javascript**
+- 🌱 I’m currently learning to be an expert in **SQL, SQLAlchemy, Python, & Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheKirbs1](https://github.com/TheKirbs1)
 
